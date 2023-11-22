@@ -1,0 +1,14 @@
+C:\Users\Dima\Desktop\шось\git\git\bin\Debug\net7.0\git.exe
+C:\Users\Dima\Desktop\шось\git\git\bin\Debug\net7.0\git.deps.json
+C:\Users\Dima\Desktop\шось\git\git\bin\Debug\net7.0\git.runtimeconfig.json
+C:\Users\Dima\Desktop\шось\git\git\bin\Debug\net7.0\git.dll
+C:\Users\Dima\Desktop\шось\git\git\bin\Debug\net7.0\git.pdb
+C:\Users\Dima\Desktop\шось\git\git\obj\Debug\net7.0\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\шось\git\git\obj\Debug\net7.0\git.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\шось\git\git\obj\Debug\net7.0\git.AssemblyInfo.cs
+C:\Users\Dima\Desktop\шось\git\git\obj\Debug\net7.0\git.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\шось\git\git\obj\Debug\net7.0\git.dll
+C:\Users\Dima\Desktop\шось\git\git\obj\Debug\net7.0\refint\git.dll
+C:\Users\Dima\Desktop\шось\git\git\obj\Debug\net7.0\git.pdb
+C:\Users\Dima\Desktop\шось\git\git\obj\Debug\net7.0\git.genruntimeconfig.cache
+C:\Users\Dima\Desktop\шось\git\git\obj\Debug\net7.0\ref\git.dll
